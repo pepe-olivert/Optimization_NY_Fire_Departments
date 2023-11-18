@@ -57,14 +57,15 @@ At shift change, ambulances should not travel long distances, as this causes a s
 * $β_ijk$: Represents the estimated demand in shift i of vehicles of type j in the neighbourhood k. It is computed as: $\frac{N_ijk}{ \sum_{k=1}^{K} N_ijk}*M_j$ being $M_j$ the total number of vehicles of type j which are available in our problem, and $N_ijk$ the total number of vehicles of type j used in shift i for neighbourhood k in the historical data.
 * $C_l$: Capacity of station l.
 * $T_k$: Maximum distance (in seconds) for the first arrival to an emergency in neighbourhood k. It is set to 9 minutes (540s) or the minimum distance from all stations to neighbourhood k if there is no station closer than 540s. 
+* $D_kl$: Distance from neighbourhood k to station l in seconds.
+* $Y_kl$: 1 if station l can be the first arrival to an emergency in neighbourhood k ($D_kl \leq T_k$), 0 otherwise.
 
 ### Decision variables
 
 * $X_ijkl$: Number of vehicles of type j are assigned to station l to cover the neighbourhood k in shift i. <br />$X_ijkl \geq 0$, $X_ijkl \in \mathbb{R}$, i = 1...I, j = 1...J, k = 1...K, l = 1...L
-* $Y_kl$: 1 if station l can be the first arrival to an emergency in neighbourhood k, 0 otherwise. <br />$Y_kl \in ${0,1}, k = 1...K, l = 1...L
 
 ### Objective function
 $min Z: $<br />
 s.t:<br />
 [station_capacity] $\sum_{j=1}^{J}\sum_{k=1}^{K} X_ijkl \leq C_l, i=1..I, l = 1...L$<br />
-[9_minutes] $
+[9_minutes] $\sum_{j=1}^{J}\sum_{l=1}^{L} X_ijkl*Y_kl \geq 1, i = 1...I, k = 1...K$<br />
