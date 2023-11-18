@@ -54,4 +54,4 @@ At shift change, ambulances should not travel long distances, as this causes a s
 
 ### Parameters of the model
 
-* $β_ijk$: Represents the estimated demand in shift i of vehicles of type j in the neighbourhood k. It is computed as: $\sum^K _{k=1}N_ijk  * M_j$
+* $β_ijk$: Represents the estimated demand in shift i of vehicles of type j in the neighbourhood k. It is computed as: $\sum^K _{k=1}N_ijk$  * M_j
