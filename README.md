@@ -61,7 +61,7 @@ At shift change, ambulances should not travel long distances, as this causes a s
 ### Decision variables
 
 * $X_ijkl$: Number of vehicles of type j are assigned to station l to cover the neighbourhood k in shift i. <br />$X_ijkl \geq 0$, $X_ijkl \in \mathbb{R}$, i = 1...I, j = 1...J, k = 1...K, l = 1...L
-* $Y_kl$: 1 if station l can be the first arrival to an emergency in neighbourhood k, 0 otherwise. <br />$Y_kl \in {0,1}$, k = 1...K, l = 1...L
+* $Y_kl$: 1 if station l can be the first arrival to an emergency in neighbourhood k, 0 otherwise. <br />$Y_kl \in \{ 0,1 \}$, k = 1...K, l = 1...L
 
 ### Objective function
 $min Z: $<br />
