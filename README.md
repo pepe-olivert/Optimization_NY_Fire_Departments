@@ -62,6 +62,6 @@ At shift change, ambulances should not travel long distances, as this causes a s
 * $X_ijkl$: Number of vehicles of type j are assigned to station l to cover the neighbourhood k in shift i. $X_ijkl \geq 0$, $X_ijkl \in \mathbb{R}$, i = 1...I, j = 1...J, k = 1...K, l = 1...L
 
 ### Objective function
-$min Z: $\n
-s.t:\n
+$min Z: $\newline
+s.t:\newline
 [station_capacity] $\sum_{j=1}^{J}\sum_{k=1}^{K} X_ijkl \leq C_l, i=1..I, l = 1...L$
