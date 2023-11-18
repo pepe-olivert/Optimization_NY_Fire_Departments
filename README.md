@@ -55,7 +55,13 @@ At shift change, ambulances should not travel long distances, as this causes a s
 ### Parameters of the model
 
 * $β_ijk$: Represents the estimated demand in shift i of vehicles of type j in the neighbourhood k. It is computed as: $\frac{N_ijk}{ \sum_{k=1}^{K} N_ijk} * M_j $ being $M_j$ the total number of vehicles of type j which are available in our problem, and $N_ijk$ the total number of vehicles of type j used in shift i for neighbourhood k in the historical data.
+* $C_l$: Capacity of station l.
 
 ### Decision variables
 
 * $X_ijkl$: Number of vehicles of type j are assigned to station l to cover the neighbourhood k in shift i. $X_ijkl \geq 0$, $X_ijkl \in \mathbb{R}$, i = 1...I, j = 1...J, k = 1...K, l = 1...L
+
+### Objective function
+$min Z: $
+s.t:
+[station_capacity] $\sum_{j=1}^{J}\sum_{k=1}^{K} X_ijkl \leq C_l, i=1..I, l = 1...L$
