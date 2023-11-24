@@ -1,2 +1,4 @@
 pandas
 ortools
+requests
+json
