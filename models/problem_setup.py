@@ -19,5 +19,5 @@ def setup(variables, constraints, objective, solver):
     for i in range(len(variables)):
         coefficient = objective.GetCoefficient(variables[i])
         new_objective.SetCoefficient(new_variables[i], coefficient)
-    return (new_variables, new_constraints, new_objective, solver)
+    return solver
     
