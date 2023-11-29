@@ -1,401 +1,631 @@
 ,shift,station,vehicle,neighbor,value
-0,9 AM to 6 PM,1160 Ogden Ave.,engines,BX28,1.0
-1,9 AM to 6 PM,143-15 Rockaway Blvd.,engines,QN55,1.0
-2,9 AM to 6 PM,515 West 181 Street,engines,BX41,1.0
-3,9 AM to 6 PM,86-53 Grand Avenue,engines,QN26,1.0
-4,9 AM to 6 PM,701 Park Avenue,engines,BK77,1.0
-5,9 AM to 6 PM,252 Lorraine St.,engines,BK41,1.0
-6,9 AM to 6 PM,218-44 97th Avenue,engines,QN44,1.0
-7,9 AM to 6 PM,14 Brighton Avenue,engines,SI08,1.0
-8,9 AM to 6 PM,330 East 150th Street,engines,BX33,1.0
-9,9 AM to 6 PM,480 Sheffield Ave.,engines,BK81,1.0
-10,9 AM to 6 PM,489 Saint John's Place,engines,BK95,1.0
-11,9 AM to 6 PM,66-44 Myrtle Avenue,engines,QN54,1.0
-12,9 AM to 6 PM,409 State Street,engines,BK64,1.0
-13,9 AM to 6 PM,489 Saint John's Place,engines,BK63,1.0
-14,9 AM to 6 PM,1352 Saint John's Place,engines,BK63,1.0
-15,9 AM to 6 PM,74 Broad Street,engines,SI14,1.0
-16,9 AM to 6 PM,2928 Briggs Ave.,engines,BX06,1.0
-17,9 AM to 6 PM,1635 E. 14th Street,engines,BK26,1.0
-18,9 AM to 6 PM,29 Vermilyea Avenue,engines,BX22,1.0
-19,9 AM to 6 PM,32 Ralph Ave.,engines,QN19,1.0
-20,9 AM to 6 PM,1518 Williamsbridge Road,engines,BX03,1.0
-21,9 AM to 6 PM,515 West 181 Street,engines,BX29,1.0
-22,9 AM to 6 PM,460 Cross Bronx Expressway,engines,BX30,1.0
-23,9 AM to 6 PM,1157 79th St.,engines,BK27,1.0
-24,9 AM to 6 PM,2510 Neptune Ave.,engines,BK27,1.0
-25,9 AM to 6 PM,3025 Bailey Ave.,engines,BX05,1.0
-26,9 AM to 6 PM,36-18 Francis Lewis Blvd.,engines,QN22,1.0
-27,9 AM to 6 PM,61-20 Utopia Parkway,engines,QN51,1.0
-28,9 AM to 6 PM,720 Melrose Ave.,engines,BX35,1.0
-29,9 AM to 6 PM,30-89 21st Street,engines,QN63,1.0
-30,9 AM to 6 PM,1307 Prospect Ave.,engines,BK88,1.0
-31,9 AM to 6 PM,5113 4th Avenue,engines,BK88,1.0
-32,9 AM to 6 PM,64-04 Springfield Blvd.,engines,QN43,1.0
-33,9 AM to 6 PM,257 Beach 116th Street,engines,QN10,1.0
-34,9 AM to 6 PM,2282 Third Avenue,engines,BX26,1.0
-35,9 AM to 6 PM,1592 Richmond Road,engines,SI45,1.0
-36,9 AM to 6 PM,503 West 139 Street,engines,MN36,1.0
-37,9 AM to 6 PM,618 East 138 Street,engines,MN34,1.0
-38,9 AM to 6 PM,5113 4th Avenue,engines,BK33,1.0
-39,9 AM to 6 PM,25 Rockaway Ave.,engines,BK61,1.0
-40,9 AM to 6 PM,61-20 Utopia Parkway,engines,QN25,1.0
-41,9 AM to 6 PM,1635 E. 14th Street,engines,BK30,1.0
-42,9 AM to 6 PM,8653 18th Ave.,engines,BK31,1.0
-43,9 AM to 6 PM,518 West 170 Street,engines,BX01,1.0
-44,9 AM to 6 PM,1226 Seneca Ave.,engines,BX01,1.0
-45,9 AM to 6 PM,1901 Sedgwick Ave.,engines,BX01,1.0
-46,9 AM to 6 PM,460 Cross Bronx Expressway,engines,BX01,1.0
-47,9 AM to 6 PM,1155 Washington Ave.,engines,BX40,1.0
-48,9 AM to 6 PM,925 East Tremont Ave.,engines,BX09,1.0
-49,9 AM to 6 PM,1689 Story Ave.,engines,BX49,1.0
-50,9 AM to 6 PM,1454 Astor Ave.,engines,BX49,1.0
-51,9 AM to 6 PM,21 Asch Loop,engines,BX49,1.0
-52,9 AM to 6 PM,2225 Belmont Ave.,engines,BX49,1.0
-53,9 AM to 6 PM,2429 86th Street,engines,BK43,1.0
-54,9 AM to 6 PM,2929 W. 8th Street,engines,BK46,1.0
-55,9 AM to 6 PM,207 West 77th Street,engines,MN11,1.0
-56,9 AM to 6 PM,215 W 58th Street,engines,MN32,1.0
-57,9 AM to 6 PM,41-24 51st Street,engines,QN71,1.0
-58,9 AM to 6 PM,2165 Gerritsen Ave.,engines,BK25,1.0
-59,9 AM to 6 PM,4210 12th Ave.,engines,BK28,1.0
-60,9 AM to 6 PM,8653 18th Ave.,engines,BK29,1.0
-61,9 AM to 6 PM,875 Jewett Avenue,engines,SI24,1.0
-62,9 AM to 6 PM,3431 White Plains Road,engines,BX62,1.0
-63,9 AM to 6 PM,1843 White Plains Rd.,engines,BX52,1.0
-64,9 AM to 6 PM,165 Bradford st.,engines,QN56,1.0
-65,9 AM to 6 PM,22-63 35th St.,engines,QN70,1.0
-66,9 AM to 6 PM,11-15 37th Avenue,engines,QN72,1.0
-67,9 AM to 6 PM,2928 Briggs Ave.,engines,BX44,1.0
-68,9 AM to 6 PM,2417 Webster Ave.,engines,BX17,1.0
-69,9 AM to 6 PM,341 East 143 Street,engines,BX14,1.0
-70,9 AM to 6 PM,1336 60th Street,engines,BK42,1.0
-71,9 AM to 6 PM,1560 Drumgoole Road West,engines,SI01,1.0
-72,9 AM to 6 PM,2929 W. 8th Street,engines,BK23,1.0
-73,9 AM to 6 PM,256 Nelson Ave.,engines,SI25,1.0
-74,9 AM to 6 PM,345 Annadale Road,engines,SI54,1.0
-75,9 AM to 6 PM,25 Pitt Street,engines,BK72,1.0
-76,9 AM to 6 PM,1100 Rossville Ave,engines,SI05,1.0
-77,9 AM to 6 PM,345 Annadale Road,engines,SI48,1.0
-78,9 AM to 6 PM,1655 Washington Ave,engines,BX75,1.0
-79,9 AM to 6 PM,145 West 100th St.,engines,MN03,1.0
-80,9 AM to 6 PM,254-20 Union Turnpike,engines,QN45,1.0
-81,9 AM to 6 PM,2312 65th Street,engines,BK32,1.0
-82,9 AM to 6 PM,788 Union Street,engines,BK37,1.0
-83,9 AM to 6 PM,36-18 Francis Lewis Blvd.,engines,QN42,1.0
-84,9 AM to 6 PM,56-29 68th Street,engines,QN30,1.0
-85,9 AM to 6 PM,"42-06, 42-08 Astoria Blvd. South",engines,QN31,1.0
-86,9 AM to 6 PM,86-53 Grand Avenue,engines,QN18,1.0
-87,9 AM to 6 PM,27-12 Kearney Street,engines,QN29,1.0
-88,9 AM to 6 PM,43 Morgan Ave.,engines,BK35,1.0
-89,9 AM to 6 PM,392 Himrod Street,engines,BK78,1.0
-90,9 AM to 6 PM,101-02 Jamaica Avenue,engines,BK83,1.0
-91,9 AM to 6 PM,66-44 Myrtle Avenue,engines,QN53,1.0
-92,9 AM to 6 PM,1210 Cortelyou Road,engines,BK60,1.0
-93,9 AM to 6 PM,1226 Seneca Ave.,engines,BX34,1.0
-94,9 AM to 6 PM,1367 Fifth Avenue,engines,BX39,1.0
-95,9 AM to 6 PM,341 East 143 Street,engines,BX63,1.0
-96,9 AM to 6 PM,885 Howard Ave.,engines,BK85,1.0
-97,9 AM to 6 PM,187 Union Ave.,engines,BK76,1.0
-98,9 AM to 6 PM,1160 Ogden Ave.,engines,MN35,1.0
-99,9 AM to 6 PM,119-11 14th Road,engines,QN47,1.0
-100,9 AM to 6 PM,101-02 Jamaica Avenue,engines,QN99,1.0
-101,9 AM to 6 PM,1518 Williamsbridge Road,engines,BX13,1.0
-102,9 AM to 6 PM,3431 White Plains Road,engines,BX99,1.0
-103,9 AM to 6 PM,5105 Snyder Ave.,engines,BK45,1.0
-104,9 AM to 6 PM,75 Canal Street,engines,BK73,1.0
-105,9 AM to 6 PM,436 39th St,engines,BK40,1.0
-106,9 AM to 6 PM,901 Avenue U,engines,BK99,1.0
-107,9 AM to 6 PM,799 Lincoln Ave.,ladders,BK50,1.0
-108,9 AM to 6 PM,252 Lorraine St.,ladders,BK68,1.0
-109,9 AM to 6 PM,1635 E. 14th Street,ladders,BK44,1.0
-110,9 AM to 6 PM,1215 Intervale Ave.,ladders,BX98,1.0
-111,9 AM to 6 PM,25 Rockaway Ave.,ladders,BK75,1.0
-112,9 AM to 6 PM,1367 Fifth Avenue,ladders,MN06,1.0
-113,9 AM to 6 PM,1214 Castle Hill Ave.,ladders,BX07,1.0
-114,9 AM to 6 PM,3929 East Tremont Ave.,ladders,BX10,1.0
-115,9 AM to 6 PM,305 Front Street,ladders,SI37,1.0
-116,9 AM to 6 PM,12-49 149th Street,ladders,QN23,1.0
-117,9 AM to 6 PM,218-44 97th Avenue,ladders,QN46,1.0
-118,9 AM to 6 PM,108-01 Horace Harding Exp.,ladders,QN50,1.0
-119,9 AM to 6 PM,491 Rogers Ave.,ladders,BK91,1.0
-120,9 AM to 6 PM,395 4th Ave.,ladders,BK09,1.0
-121,9 AM to 6 PM,755 East 233 Street,ladders,BX43,1.0
-122,9 AM to 6 PM,618 East 138 Street,ladders,BX55,1.0
-123,9 AM to 6 PM,8653 18th Ave.,ladders,BK21,1.0
-124,9 AM to 6 PM,126 Foster Ave.,ladders,BK34,1.0
-125,9 AM to 6 PM,21 Asch Loop,ladders,BX31,1.0
-126,9 AM to 6 PM,97-28 43rd Avenue,ladders,QN17,1.0
-127,9 AM to 6 PM,515 West 181 Street,ladders,BX29,1.0
-128,9 AM to 6 PM,1157 79th St.,ladders,BK27,1.0
-129,9 AM to 6 PM,901 Avenue U,ladders,BK27,1.0
-130,9 AM to 6 PM,97-28 43rd Avenue,ladders,QN28,1.0
-131,9 AM to 6 PM,29 Vermilyea Avenue,ladders,MN04,1.0
-132,9 AM to 6 PM,1361 Rockaway Parkway,ladders,BK58,1.0
-133,9 AM to 6 PM,1210 Cortelyou Road,ladders,BK96,1.0
-134,9 AM to 6 PM,56-07 Metropolitan Avenue,ladders,BK90,1.0
-135,9 AM to 6 PM,1214 Castle Hill Ave.,ladders,BX59,1.0
-136,9 AM to 6 PM,2732 E. 11th Street,ladders,BK17,1.0
-137,9 AM to 6 PM,278 McClean Avenue,ladders,SI36,1.0
-138,9 AM to 6 PM,157 E 67th St,ladders,MN33,1.0
-139,9 AM to 6 PM,Brooklyn Navy Yard Building 292,ladders,BK69,1.0
-140,9 AM to 6 PM,925 East Tremont Ave.,ladders,BX09,1.0
-141,9 AM to 6 PM,2928 Briggs Ave.,ladders,BX49,1.0
-142,9 AM to 6 PM,1843 White Plains Rd.,ladders,BX49,1.0
-143,9 AM to 6 PM,3446 Eastchester Road,ladders,BX49,1.0
-144,9 AM to 6 PM,4210 12th Ave.,ladders,BK46,1.0
-145,9 AM to 6 PM,256 Nelson Ave.,ladders,SI99,1.0
-146,9 AM to 6 PM,513 West 161 Street,ladders,MN09,1.0
-147,9 AM to 6 PM,207 West 77th Street,ladders,MN11,1.0
-148,9 AM to 6 PM,165 East 51 Street,ladders,MN32,1.0
-149,9 AM to 6 PM,37-20 29th Street,ladders,QN71,1.0
-150,9 AM to 6 PM,143-15 Rockaway Blvd.,ladders,QN98,1.0
-151,9 AM to 6 PM,6405 Avenue N,ladders,BK25,1.0
-152,9 AM to 6 PM,2929 W. 8th Street,ladders,BK28,1.0
-153,9 AM to 6 PM,9219 5th Ave.,ladders,BK29,1.0
-154,9 AM to 6 PM,81-17 Northern Blvd.,ladders,QN68,1.0
-155,9 AM to 6 PM,165 Bradford st.,ladders,QN56,1.0
-156,9 AM to 6 PM,103-17 98th Street,ladders,QN57,1.0
-157,9 AM to 6 PM,22-63 35th St.,ladders,QN72,1.0
-158,9 AM to 6 PM,2417 Webster Ave.,ladders,BX36,1.0
-159,9 AM to 6 PM,392 Himrod Street,ladders,QN20,1.0
-160,9 AM to 6 PM,86-53 Grand Avenue,ladders,QN21,1.0
-161,9 AM to 6 PM,"42-06, 42-08 Astoria Blvd. South",ladders,QN27,1.0
-162,9 AM to 6 PM,7219 Amboy Road,ladders,SI32,1.0
-163,9 AM to 6 PM,2732 E. 11th Street,ladders,BK19,1.0
-164,9 AM to 6 PM,74 Middagh Street,ladders,BK72,1.0
-165,9 AM to 6 PM,25 Pitt Street,ladders,MN25,1.0
-166,9 AM to 6 PM,1259 Morris Ave.,ladders,BX08,1.0
-167,9 AM to 6 PM,3446 Eastchester Road,ladders,BX37,1.0
-168,9 AM to 6 PM,925 East Tremont Ave.,ladders,BX46,1.0
-169,9 AM to 6 PM,172 Tillary Street,ladders,BK38,1.0
-170,9 AM to 6 PM,341 East 143 Street,ladders,BX27,1.0
-171,9 AM to 6 PM,242 East 111 Street,ladders,BX63,1.0
-172,9 AM to 6 PM,885 Howard Ave.,ladders,BK79,1.0
-173,9 AM to 6 PM,850 Bedford Ave.,ladders,BK76,1.0
-174,9 AM to 6 PM,2417 Webster Ave.,ladders,MN01,1.0
-175,9 AM to 6 PM,40-18 Union Street,ladders,QN49,1.0
-176,9 AM to 6 PM,89-40 87th Street,ladders,BK82,1.0
-177,9 AM to 6 PM,998 Liberty Ave.,ladders,BK93,1.0
-178,9 AM to 6 PM,205 Greenpoint Ave.,ladders,BK73,1.0
-179,6 PM until 9 AM,8653 18th Ave.,engines,BX28,1.0
-180,6 PM until 9 AM,8653 18th Ave.,engines,BK50,1.0
-181,6 PM until 9 AM,2225 Belmont Ave.,engines,BX41,1.0
-182,6 PM until 9 AM,86-53 Grand Avenue,engines,QN26,3.0
-183,6 PM until 9 AM,101-02 Jamaica Avenue,engines,BK68,1.0
-184,6 PM until 9 AM,8653 18th Ave.,engines,BX98,1.0
-185,6 PM until 9 AM,782 Eighth Avenue,engines,QN07,2.0
-186,6 PM until 9 AM,12-49 149th Street,engines,QN48,1.0
-187,6 PM until 9 AM,26 Hooper Street,engines,BK77,1.0
-188,6 PM until 9 AM,1336 60th Street,engines,BK41,1.0
-189,6 PM until 9 AM,40-18 Union Street,engines,QN62,1.0
-190,6 PM until 9 AM,1850 Clove Road,engines,SI08,1.0
-191,6 PM until 9 AM,2924 Bruckner Blvd.,engines,BX10,1.0
-192,6 PM until 9 AM,1781 Monroe Ave.,engines,BX33,1.0
-193,6 PM until 9 AM,1352 Saint John's Place,engines,BK81,1.0
-194,6 PM until 9 AM,159-06 Union Turnpike,engines,QN35,1.0
-195,6 PM until 9 AM,885 Howard Ave.,engines,BK91,1.0
-196,6 PM until 9 AM,5105 Snyder Ave.,engines,BK95,1.0
-197,6 PM until 9 AM,117-11 196th Street,engines,QN66,1.0
-198,6 PM until 9 AM,160 Carlton Ave.,engines,BK09,1.0
-199,6 PM until 9 AM,3446 Eastchester Road,engines,BX43,1.0
-200,6 PM until 9 AM,1155 Washington Ave.,engines,BX55,1.0
-201,6 PM until 9 AM,788 Union Street,engines,BK63,1.0
-202,6 PM until 9 AM,460 Cross Bronx Expressway,engines,BX06,1.0
-203,6 PM until 9 AM,29 Vermilyea Avenue,engines,BX22,1.0
-204,6 PM until 9 AM,755 East 233 Street,engines,BX03,1.0
-205,6 PM until 9 AM,3446 Eastchester Road,engines,BX31,1.0
-206,6 PM until 9 AM,515 West 181 Street,engines,BX30,1.0
-207,6 PM until 9 AM,2929 W. 8th Street,engines,BX05,1.0
-208,6 PM until 9 AM,64-04 Springfield Blvd.,engines,QN51,1.0
-209,6 PM until 9 AM,145-50 Springfield Blvd.,engines,QN02,1.0
-210,6 PM until 9 AM,107-12 Lefferts Blvd.,engines,QN76,1.0
-211,6 PM until 9 AM,1226 Seneca Ave.,engines,BX35,1.0
-212,6 PM until 9 AM,27-12 Kearney Street,engines,QN28,1.0
-213,6 PM until 9 AM,64-18 Queens Blvd.,engines,QN63,1.0
-214,6 PM until 9 AM,252 Lorraine St.,engines,MN04,1.0
-215,6 PM until 9 AM,25 Pitt Street,engines,MN50,1.0
-216,6 PM until 9 AM,850 Bedford Ave.,engines,BK90,1.0
-217,6 PM until 9 AM,165 Bradford st.,engines,BX59,1.0
-218,6 PM until 9 AM,395 4th Ave.,engines,BK17,1.0
-219,6 PM until 9 AM,1592 Richmond Road,engines,SI45,1.0
-220,6 PM until 9 AM,248 West 143 Street,engines,MN36,1.0
-221,6 PM until 9 AM,126 Foster Ave.,engines,MN34,1.0
-222,6 PM until 9 AM,74 Middagh Street,engines,MN27,1.0
-223,6 PM until 9 AM,25 Rockaway Ave.,engines,BK61,2.0
-224,6 PM until 9 AM,655 Prospect Ave.,engines,BX01,1.0
-225,6 PM until 9 AM,1843 White Plains Rd.,engines,BX40,1.0
-226,6 PM until 9 AM,755 East 233 Street,engines,BX49,1.0
-227,6 PM until 9 AM,1210 Cortelyou Road,engines,BK43,2.0
-228,6 PM until 9 AM,4210 12th Ave.,engines,BK43,2.0
-229,6 PM until 9 AM,2165 Gerritsen Ave.,engines,BK43,1.0
-230,6 PM until 9 AM,256 Nelson Ave.,engines,SI99,1.0
-231,6 PM until 9 AM,513 West 161 Street,engines,MN11,1.0
-232,6 PM until 9 AM,215 W 58th Street,engines,MN32,1.0
-233,6 PM until 9 AM,30-89 21st Street,engines,QN71,1.0
-234,6 PM until 9 AM,145-50 Springfield Blvd.,engines,QN05,1.0
-235,6 PM until 9 AM,875 Jewett Avenue,engines,SI24,1.0
-236,6 PM until 9 AM,2928 Briggs Ave.,engines,BX62,1.0
-237,6 PM until 9 AM,165 East 51 Street,engines,QN68,1.0
-238,6 PM until 9 AM,305 Front Street,engines,QN56,1.0
-239,6 PM until 9 AM,998 Liberty Ave.,engines,QN57,1.0
-240,6 PM until 9 AM,145 West 100th St.,engines,MN14,1.0
-241,6 PM until 9 AM,"42-06, 42-08 Astoria Blvd. South",engines,QN72,1.0
-242,6 PM until 9 AM,1160 Ogden Ave.,engines,BX36,2.0
-243,6 PM until 9 AM,1100 Rossville Ave,engines,SI01,1.0
-244,6 PM until 9 AM,618 East 138 Street,engines,SI32,1.0
-245,6 PM until 9 AM,2929 W. 8th Street,engines,BK23,1.0
-246,6 PM until 9 AM,131 Amsterdam Avenue,engines,MN15,1.0
-247,6 PM until 9 AM,205 Greenpoint Ave.,engines,BK72,1.0
-248,6 PM until 9 AM,14 East 18 Street,engines,SI05,1.0
-249,6 PM until 9 AM,345 Annadale Road,engines,SI48,1.0
-250,6 PM until 9 AM,172 Tillary Street,engines,MN24,1.0
-251,6 PM until 9 AM,341 East 143 Street,engines,MN03,3.0
-252,6 PM until 9 AM,2282 Third Avenue,engines,MN99,1.0
-253,6 PM until 9 AM,40-18 214th Place,engines,QN45,1.0
-254,6 PM until 9 AM,159-06 Union Turnpike,engines,QN42,1.0
-255,6 PM until 9 AM,1518 Williamsbridge Road,engines,BX37,1.0
-256,6 PM until 9 AM,1689 Story Ave.,engines,BX46,1.0
-257,6 PM until 9 AM,11-15 37th Avenue,engines,QN31,1.0
-258,6 PM until 9 AM,495 Hancock Street,engines,BK78,1.0
-259,6 PM until 9 AM,3929 East Tremont Ave.,engines,BX27,1.0
-260,6 PM until 9 AM,1367 Rogers Ave.,engines,BK60,1.0
-261,6 PM until 9 AM,415 West 125 Street,engines,BX63,1.0
-262,6 PM until 9 AM,885 Howard Ave.,engines,BK85,1.0
-263,6 PM until 9 AM,187 Union Ave.,engines,BK76,1.0
-264,6 PM until 9 AM,220 West 37 Street,engines,MN20,1.0
-265,6 PM until 9 AM,453 E 176 Street,engines,MN01,1.0
-266,6 PM until 9 AM,515 West 181 Street,engines,MN35,1.0
-267,6 PM until 9 AM,119-11 14th Road,engines,QN47,1.0
-268,6 PM until 9 AM,36-18 Francis Lewis Blvd.,engines,QN49,1.0
-269,6 PM until 9 AM,7219 Amboy Road,engines,QN60,1.0
-270,6 PM until 9 AM,799 Lincoln Ave.,engines,BX99,1.0
-271,6 PM until 9 AM,103-17 98th Street,engines,BK82,1.0
-272,6 PM until 9 AM,165 Bradford st.,engines,BK93,1.0
-273,6 PM until 9 AM,20 Rear Bloomfield Street,engines,BK73,1.0
-274,6 PM until 9 AM,14 N. Moore Street,engines,MN28,1.0
-275,6 PM until 9 AM,3431 White Plains Road,ladders,BX28,1.0
-276,6 PM until 9 AM,108-01 Horace Harding Exp.,ladders,QN55,1.0
-277,6 PM until 9 AM,1361 Rockaway Parkway,ladders,BK50,1.0
-278,6 PM until 9 AM,618 East 138 Street,ladders,BX41,1.0
-279,6 PM until 9 AM,254-20 Union Turnpike,ladders,QN26,1.0
-280,6 PM until 9 AM,701 Park Avenue,ladders,BK68,1.0
-281,6 PM until 9 AM,64-04 Springfield Blvd.,ladders,QN52,1.0
-282,6 PM until 9 AM,2312 65th Street,ladders,QN01,1.0
-283,6 PM until 9 AM,655 Prospect Ave.,ladders,BX98,1.0
-284,6 PM until 9 AM,89-40 87th Street,ladders,QN48,1.0
-285,6 PM until 9 AM,Brooklyn Navy Yard Building 292,ladders,BK75,1.0
-286,6 PM until 9 AM,218-44 97th Avenue,ladders,QN44,1.0
-287,6 PM until 9 AM,248 West 143 Street,ladders,MN06,1.0
-288,6 PM until 9 AM,1689 Story Ave.,ladders,BX07,1.0
-289,6 PM until 9 AM,40-18 Union Street,ladders,QN37,1.0
-290,6 PM until 9 AM,256 Hylan Blvd.,ladders,SI37,1.0
-291,6 PM until 9 AM,41-20 Murray Street,ladders,QN23,1.0
-292,6 PM until 9 AM,61-20 Utopia Parkway,ladders,QN46,1.0
-293,6 PM until 9 AM,64-18 Queens Blvd.,ladders,QN50,1.0
-294,6 PM until 9 AM,1518 Williamsbridge Road,ladders,BK09,1.0
-295,6 PM until 9 AM,66-44 Myrtle Avenue,ladders,QN54,1.0
-296,6 PM until 9 AM,1189 Castleton Avenue,ladders,SI12,1.0
-297,6 PM until 9 AM,1215 Intervale Ave.,ladders,BX43,1.0
-298,6 PM until 9 AM,26 Hooper Street,ladders,BK64,1.0
-299,6 PM until 9 AM,252 Lorraine St.,ladders,BX55,1.0
-300,6 PM until 9 AM,9219 5th Ave.,ladders,SI14,1.0
-301,6 PM until 9 AM,22-63 35th St.,ladders,BX06,1.0
-302,6 PM until 9 AM,2929 W. 8th Street,ladders,BK21,1.0
-303,6 PM until 9 AM,207 West 77th Street,ladders,BX22,1.0
-304,6 PM until 9 AM,56-29 68th Street,ladders,QN19,1.0
-305,6 PM until 9 AM,21 Asch Loop,ladders,BX31,1.0
-306,6 PM until 9 AM,78-11 67th Road,ladders,QN17,1.0
-307,6 PM until 9 AM,1901 Sedgwick Ave.,ladders,BX29,1.0
-308,6 PM until 9 AM,29 Vermilyea Avenue,ladders,BX05,1.0
-309,6 PM until 9 AM,108-01 Horace Harding Exp.,ladders,QN22,1.0
-310,6 PM until 9 AM,392 Himrod Street,ladders,BX35,1.0
-311,6 PM until 9 AM,74 Broad Street,ladders,QN63,1.0
-312,6 PM until 9 AM,37-20 29th Street,ladders,MN19,1.0
-313,6 PM until 9 AM,218-44 97th Avenue,ladders,QN43,1.0
-314,6 PM until 9 AM,1367 Fifth Avenue,ladders,MN04,1.0
-315,6 PM until 9 AM,2417 Webster Ave.,ladders,BK96,3.0
-316,6 PM until 9 AM,65 Harbor Road,ladders,BK90,1.0
-317,6 PM until 9 AM,1226 Seneca Ave.,ladders,BX59,1.0
-318,6 PM until 9 AM,61-20 Utopia Parkway,ladders,QN10,1.0
-319,6 PM until 9 AM,415 West 125 Street,ladders,BX26,1.0
-320,6 PM until 9 AM,278 McClean Avenue,ladders,SI36,1.0
-321,6 PM until 9 AM,515 West 181 Street,ladders,MN34,1.0
-322,6 PM until 9 AM,165 East 51 Street,ladders,MN21,1.0
-323,6 PM until 9 AM,1367 Fifth Avenue,ladders,MN31,1.0
-324,6 PM until 9 AM,238 East 40 Street,ladders,MN40,1.0
-325,6 PM until 9 AM,157 E 67th St,ladders,MN33,1.0
-326,6 PM until 9 AM,489 Saint John's Place,ladders,BK69,1.0
-327,6 PM until 9 AM,97-28 43rd Avenue,ladders,QN25,1.0
-328,6 PM until 9 AM,409 State Street,ladders,BX01,1.0
-329,6 PM until 9 AM,1843 White Plains Rd.,ladders,BX40,1.0
-330,6 PM until 9 AM,1655 Washington Ave,ladders,BX09,1.0
-331,6 PM until 9 AM,1214 Castle Hill Ave.,ladders,BK43,1.0
-332,6 PM until 9 AM,1635 E. 14th Street,ladders,BK43,1.0
-333,6 PM until 9 AM,901 Avenue U,ladders,BK43,2.0
-334,6 PM until 9 AM,41-24 51st Street,ladders,BK46,1.0
-335,6 PM until 9 AM,14 Brighton Avenue,ladders,SI99,1.0
-336,6 PM until 9 AM,518 West 170 Street,ladders,MN09,1.0
-337,6 PM until 9 AM,142-04 Brookville Blvd.,ladders,MN11,1.0
-338,6 PM until 9 AM,108 East 13 Street,ladders,MN17,1.0
-339,6 PM until 9 AM,1454 Astor Ave.,ladders,MN32,1.0
-340,6 PM until 9 AM,81-17 Northern Blvd.,ladders,QN71,1.0
-341,6 PM until 9 AM,107-12 Lefferts Blvd.,ladders,QN98,1.0
-342,6 PM until 9 AM,345 Annadale Road,ladders,BK25,1.0
-343,6 PM until 9 AM,1635 E. 14th Street,ladders,BK29,1.0
-344,6 PM until 9 AM,117-11 196th Street,ladders,QN03,1.0
-345,6 PM until 9 AM,1214 Castle Hill Ave.,ladders,BX52,1.0
-346,6 PM until 9 AM,480 Sheffield Ave.,ladders,QN56,1.0
-347,6 PM until 9 AM,207 West 77th Street,ladders,MN12,1.0
-348,6 PM until 9 AM,143-15 Rockaway Blvd.,ladders,MN14,1.0
-349,6 PM until 9 AM,22-63 35th St.,ladders,QN70,1.0
-350,6 PM until 9 AM,"42-06, 42-08 Astoria Blvd. South",ladders,QN72,1.0
-351,6 PM until 9 AM,2928 Briggs Ave.,ladders,BX44,1.0
-352,6 PM until 9 AM,2928 Briggs Ave.,ladders,BX17,1.0
-353,6 PM until 9 AM,2429 86th Street,ladders,BX17,1.0
-354,6 PM until 9 AM,925 East Tremont Ave.,ladders,BX36,3.0
-355,6 PM until 9 AM,3025 Bailey Ave.,ladders,BX36,1.0
-356,6 PM until 9 AM,43 Morgan Ave.,ladders,QN20,1.0
-357,6 PM until 9 AM,56-07 Metropolitan Avenue,ladders,QN21,1.0
-358,6 PM until 9 AM,248 West 143 Street,ladders,BX14,1.0
-359,6 PM until 9 AM,1307 Prospect Ave.,ladders,BK42,1.0
-360,6 PM until 9 AM,97-28 43rd Avenue,ladders,QN27,1.0
-361,6 PM until 9 AM,491 Rogers Ave.,ladders,SI01,1.0
-362,6 PM until 9 AM,1560 Drumgoole Road West,ladders,SI32,1.0
-363,6 PM until 9 AM,2510 Neptune Ave.,ladders,BK19,1.0
-364,6 PM until 9 AM,3067 Richmond Road,ladders,SI25,1.0
-365,6 PM until 9 AM,256 Nelson Ave.,ladders,SI54,1.0
-366,6 PM until 9 AM,142 West 31 Street,ladders,MN13,1.0
-367,6 PM until 9 AM,2732 E. 11th Street,ladders,MN15,1.0
-368,6 PM until 9 AM,2732 E. 11th Street,ladders,BK72,1.0
-369,6 PM until 9 AM,875 Jewett Avenue,ladders,SI05,1.0
-370,6 PM until 9 AM,143-15 Rockaway Blvd.,ladders,SI48,1.0
-371,6 PM until 9 AM,460 Cross Bronx Expressway,ladders,BX75,1.0
-372,6 PM until 9 AM,503 West 139 Street,ladders,MN24,1.0
-373,6 PM until 9 AM,75 Canal Street,ladders,MN25,1.0
-374,6 PM until 9 AM,720 Melrose Ave.,ladders,BX08,1.0
-375,6 PM until 9 AM,21 Asch Loop,ladders,MN99,1.0
-376,6 PM until 9 AM,1635 E. 14th Street,ladders,BK37,1.0
-377,6 PM until 9 AM,436 39th St,ladders,BX37,1.0
-378,6 PM until 9 AM,392 Himrod Street,ladders,QN30,1.0
-379,6 PM until 9 AM,48-06 Rockaway Beach Blvd,ladders,QN31,1.0
-380,6 PM until 9 AM,111-02 Queens Blvd.,ladders,QN18,1.0
-381,6 PM until 9 AM,1201 Grand Street,ladders,QN29,1.0
-382,6 PM until 9 AM,489 Saint John's Place,ladders,BK38,1.0
-383,6 PM until 9 AM,940 Dekalb Avenue,ladders,BK35,1.0
-384,6 PM until 9 AM,1259 Morris Ave.,ladders,BX27,1.0
-385,6 PM until 9 AM,32 Ralph Ave.,ladders,BK83,1.0
-386,6 PM until 9 AM,617 Central Ave.,ladders,QN53,1.0
-387,6 PM until 9 AM,330 East 150th Street,ladders,BX34,1.0
-388,6 PM until 9 AM,242 East 111 Street,ladders,BX39,1.0
-389,6 PM until 9 AM,66-44 Myrtle Avenue,ladders,BK79,1.0
-390,6 PM until 9 AM,25 Pitt Street,ladders,MN22,1.0
-391,6 PM until 9 AM,234 East 29 Street,ladders,MN23,1.0
-392,6 PM until 9 AM,119-11 14th Road,ladders,QN47,1.0
-393,6 PM until 9 AM,36-18 Francis Lewis Blvd.,ladders,QN49,1.0
-394,6 PM until 9 AM,101-02 Jamaica Avenue,ladders,QN60,1.0
-395,6 PM until 9 AM,158-57 Cross Bay Blvd.,ladders,QN99,1.0
-396,6 PM until 9 AM,3431 White Plains Road,ladders,BX13,1.0
-397,6 PM until 9 AM,2924 Bruckner Blvd.,ladders,BX99,1.0
-398,6 PM until 9 AM,Brooklyn Navy Yard Building 292,ladders,BK73,1.0
-399,6 PM until 9 AM,1157 79th St.,ladders,MN28,1.0
+0,9 AM to 6 PM,480 Sheffield Ave.,engines,QN08,2.0
+1,9 AM to 6 PM,61-20 Utopia Parkway,engines,QN08,1.0
+2,9 AM to 6 PM,257 Beach 116th Street,engines,QN08,1.0
+3,9 AM to 6 PM,2510 Neptune Ave.,engines,BX28,1.0
+4,9 AM to 6 PM,1157 79th St.,engines,QN55,2.0
+5,9 AM to 6 PM,8653 18th Ave.,engines,QN55,1.0
+6,9 AM to 6 PM,111-02 Queens Blvd.,engines,QN55,2.0
+7,9 AM to 6 PM,5105 Snyder Ave.,engines,BK50,1.0
+8,9 AM to 6 PM,491 Rogers Ave.,engines,BX41,1.0
+9,9 AM to 6 PM,81-17 Northern Blvd.,engines,QN26,1.0
+10,9 AM to 6 PM,153-11 Hillside Avenue,engines,QN26,1.0
+11,9 AM to 6 PM,14 Brighton Avenue,engines,QN26,2.0
+12,9 AM to 6 PM,206 Monroe Street,engines,BK68,1.0
+13,9 AM to 6 PM,1361 Rockaway Parkway,engines,QN38,2.0
+14,9 AM to 6 PM,6405 Avenue N,engines,QN38,1.0
+15,9 AM to 6 PM,126 Foster Ave.,engines,QN52,1.0
+16,9 AM to 6 PM,2929 W. 8th Street,engines,QN52,1.0
+17,9 AM to 6 PM,4210 12th Ave.,engines,BK44,1.0
+18,9 AM to 6 PM,42 South Street,engines,QN01,2.0
+19,9 AM to 6 PM,215 W 58th Street,engines,QN01,1.0
+20,9 AM to 6 PM,530 11th Street,engines,BX98,1.0
+21,9 AM to 6 PM,108-01 Horace Harding Exp.,engines,QN07,1.0
+22,9 AM to 6 PM,40-18 Union Street,engines,QN07,1.0
+23,9 AM to 6 PM,1214 Castle Hill Ave.,engines,QN48,1.0
+24,9 AM to 6 PM,36-18 Francis Lewis Blvd.,engines,QN48,1.0
+25,9 AM to 6 PM,56-29 68th Street,engines,BK77,1.0
+26,9 AM to 6 PM,187 Union Ave.,engines,BK75,1.0
+27,9 AM to 6 PM,104-12 Princeton Street,engines,QN33,1.0
+28,9 AM to 6 PM,117-11 196th Street,engines,QN33,1.0
+29,9 AM to 6 PM,1352 Saint John's Place,engines,QN44,1.0
+30,9 AM to 6 PM,44-01 244th Street,engines,QN44,1.0
+31,9 AM to 6 PM,1367 Fifth Avenue,engines,MN06,1.0
+32,9 AM to 6 PM,1352 Saint John's Place,engines,QN62,1.0
+33,9 AM to 6 PM,36-18 Francis Lewis Blvd.,engines,QN62,1.0
+34,9 AM to 6 PM,1214 Castle Hill Ave.,engines,QN15,1.0
+35,9 AM to 6 PM,2165 Gerritsen Ave.,engines,QN15,1.0
+36,9 AM to 6 PM,"16-15, 16-17, 16-19 Central Ave.",engines,QN15,1.0
+37,9 AM to 6 PM,1189 Castleton Avenue,engines,QN15,1.0
+38,9 AM to 6 PM,1850 Clove Road,engines,SI08,1.0
+39,9 AM to 6 PM,21 Asch Loop,engines,BX10,1.0
+40,9 AM to 6 PM,33 West 43 Street,engines,QN37,1.0
+41,9 AM to 6 PM,530 11th Street,engines,QN37,1.0
+42,9 AM to 6 PM,998 Liberty Ave.,engines,BK81,1.0
+43,9 AM to 6 PM,278 McClean Avenue,engines,SI37,1.0
+44,9 AM to 6 PM,218-44 97th Avenue,engines,QN46,1.0
+45,9 AM to 6 PM,56-07 Metropolitan Avenue,engines,QN50,1.0
+46,9 AM to 6 PM,172 Tillary Street,engines,BK91,1.0
+47,9 AM to 6 PM,489 Saint John's Place,engines,BK95,1.0
+48,9 AM to 6 PM,172 Tillary Street,engines,QN66,1.0
+49,9 AM to 6 PM,172 Tillary Street,engines,BK09,1.0
+50,9 AM to 6 PM,12-49 149th Street,engines,SI28,1.0
+51,9 AM to 6 PM,172 Tillary Street,engines,BK64,1.0
+52,9 AM to 6 PM,1226 Seneca Ave.,engines,BX55,1.0
+53,9 AM to 6 PM,74 Broad Street,engines,BK63,1.0
+54,9 AM to 6 PM,1573 Castleton Avenue,engines,BK63,1.0
+55,9 AM to 6 PM,160 Carlton Ave.,engines,SI14,1.0
+56,9 AM to 6 PM,1400 Richmond Avenue,engines,BK21,1.0
+57,9 AM to 6 PM,1850 Clove Road,engines,BK21,1.0
+58,9 AM to 6 PM,1573 Castleton Avenue,engines,BK26,1.0
+59,9 AM to 6 PM,91-45 121st Street,engines,QN19,1.0
+60,9 AM to 6 PM,395 4th Ave.,engines,BK34,1.0
+61,9 AM to 6 PM,66-44 Myrtle Avenue,engines,BK34,2.0
+62,9 AM to 6 PM,119-11 14th Road,engines,BK34,2.0
+63,9 AM to 6 PM,78-11 67th Road,engines,QN17,1.0
+64,9 AM to 6 PM,248 West 143 Street,engines,BX29,1.0
+65,9 AM to 6 PM,14 East 18 Street,engines,BK27,1.0
+66,9 AM to 6 PM,12-49 149th Street,engines,QN22,1.0
+67,9 AM to 6 PM,248 West 143 Street,engines,QN51,1.0
+68,9 AM to 6 PM,248 West 143 Street,engines,QN76,1.0
+69,9 AM to 6 PM,655 Prospect Ave.,engines,BX35,1.0
+70,9 AM to 6 PM,37-20 29th Street,engines,QN28,1.0
+71,9 AM to 6 PM,41-24 51st Street,engines,QN63,1.0
+72,9 AM to 6 PM,2929 W. 8th Street,engines,QN43,1.0
+73,9 AM to 6 PM,1367 Fifth Avenue,engines,MN04,1.0
+74,9 AM to 6 PM,453 E 176 Street,engines,BX59,1.0
+75,9 AM to 6 PM,257 Beach 116th Street,engines,QN10,1.0
+76,9 AM to 6 PM,2929 W. 8th Street,engines,BK17,1.0
+77,9 AM to 6 PM,1781 Monroe Ave.,engines,BX26,1.0
+78,9 AM to 6 PM,278 McClean Avenue,engines,SI36,1.0
+79,9 AM to 6 PM,2175 Walton Ave.,engines,MN36,1.0
+80,9 AM to 6 PM,495 Hancock Street,engines,MN34,1.0
+81,9 AM to 6 PM,234 East 29 Street,engines,MN27,1.0
+82,9 AM to 6 PM,145 West 100th St.,engines,MN31,1.0
+83,9 AM to 6 PM,42 Great Jones Street,engines,MN40,1.0
+84,9 AM to 6 PM,145 West 100th St.,engines,MN33,1.0
+85,9 AM to 6 PM,6630 3rd Avenue,engines,BK33,1.0
+86,9 AM to 6 PM,1635 E. 14th Street,engines,BK61,1.0
+87,9 AM to 6 PM,409 State Street,engines,BK69,1.0
+88,9 AM to 6 PM,97-28 43rd Avenue,engines,QN25,1.0
+89,9 AM to 6 PM,518 West 170 Street,engines,BX01,1.0
+90,9 AM to 6 PM,100 Duane Street,engines,BX09,4.0
+91,9 AM to 6 PM,165 East 51 Street,engines,BX09,1.0
+92,9 AM to 6 PM,1655 Washington Ave,engines,BX09,1.0
+93,9 AM to 6 PM,165 East 51 Street,engines,BX49,1.0
+94,9 AM to 6 PM,495 Hancock Street,engines,BK43,1.0
+95,9 AM to 6 PM,104-12 Princeton Street,engines,BK46,1.0
+96,9 AM to 6 PM,1635 E. 14th Street,engines,SI99,1.0
+97,9 AM to 6 PM,120 West 83 Street,engines,MN09,1.0
+98,9 AM to 6 PM,49 Beekman Street,engines,MN17,1.0
+99,9 AM to 6 PM,143-15 Rockaway Blvd.,engines,QN98,1.0
+100,9 AM to 6 PM,5113 4th Avenue,engines,BK25,1.0
+101,9 AM to 6 PM,111 West 133 Street,engines,BK28,1.0
+102,9 AM to 6 PM,2924 Bruckner Blvd.,engines,BK29,1.0
+103,9 AM to 6 PM,142-04 Brookville Blvd.,engines,QN05,1.0
+104,9 AM to 6 PM,875 Jewett Avenue,engines,SI24,1.0
+105,9 AM to 6 PM,2900 Snyder Ave.,engines,BX52,1.0
+106,9 AM to 6 PM,238 East 40 Street,engines,QN68,1.0
+107,9 AM to 6 PM,107 Watkins Street,engines,QN56,1.0
+108,9 AM to 6 PM,150 West 19 Street,engines,QN57,1.0
+109,9 AM to 6 PM,221 East 75 Street,engines,MN12,1.0
+110,9 AM to 6 PM,1259 Morris Ave.,engines,QN70,1.0
+111,9 AM to 6 PM,11-15 37th Avenue,engines,QN72,1.0
+112,9 AM to 6 PM,150 West 19 Street,engines,BX44,1.0
+113,9 AM to 6 PM,3025 Bailey Ave.,engines,BX36,1.0
+114,9 AM to 6 PM,650 Hart Street,engines,QN20,1.0
+115,9 AM to 6 PM,1201 Grand Street,engines,QN21,1.0
+116,9 AM to 6 PM,4210 12th Ave.,engines,BK42,1.0
+117,9 AM to 6 PM,27-12 Kearney Street,engines,QN27,1.0
+118,9 AM to 6 PM,345 Annadale Road,engines,SI01,1.0
+119,9 AM to 6 PM,107 Watkins Street,engines,SI32,1.0
+120,9 AM to 6 PM,222 East 2 Street,engines,BK19,1.0
+121,9 AM to 6 PM,42 Great Jones Street,engines,BK23,1.0
+122,9 AM to 6 PM,1259 Morris Ave.,engines,SI25,1.0
+123,9 AM to 6 PM,530 West 43 Street,engines,MN15,1.0
+124,9 AM to 6 PM,31 Richards Street,engines,BK72,1.0
+125,9 AM to 6 PM,1259 Morris Ave.,engines,SI05,1.0
+126,9 AM to 6 PM,101-02 Jamaica Avenue,engines,SI48,1.0
+127,9 AM to 6 PM,25 Rockaway Ave.,engines,BX75,1.0
+128,9 AM to 6 PM,420A Weaver Ave,engines,MN24,1.0
+129,9 AM to 6 PM,75 Canal Street,engines,MN25,1.0
+130,9 AM to 6 PM,1400 Richmond Avenue,engines,MN25,1.0
+131,9 AM to 6 PM,10-40 47th Ave.,engines,BX08,1.0
+132,9 AM to 6 PM,925 East Tremont Ave.,engines,MN03,3.0
+133,9 AM to 6 PM,341 East 143 Street,engines,QN45,1.0
+134,9 AM to 6 PM,222 East 2 Street,engines,QN06,1.0
+135,9 AM to 6 PM,5113 4th Avenue,engines,BK32,1.0
+136,9 AM to 6 PM,172 Tillary Street,engines,BK37,1.0
+137,9 AM to 6 PM,64-18 Queens Blvd.,engines,QN34,1.0
+138,9 AM to 6 PM,2175 Walton Ave.,engines,BX37,1.0
+139,9 AM to 6 PM,1560 Drumgoole Road West,engines,BX46,1.0
+140,9 AM to 6 PM,97-28 43rd Avenue,engines,QN30,1.0
+141,9 AM to 6 PM,206 Monroe Street,engines,QN31,1.0
+142,9 AM to 6 PM,108-01 Horace Harding Exp.,engines,QN18,1.0
+143,9 AM to 6 PM,64-18 Queens Blvd.,engines,QN29,1.0
+144,9 AM to 6 PM,207 West 77th Street,engines,BK38,1.0
+145,9 AM to 6 PM,1307 Prospect Ave.,engines,BK35,1.0
+146,9 AM to 6 PM,1361 Rockaway Parkway,engines,BK78,1.0
+147,9 AM to 6 PM,341 East 143 Street,engines,BX27,1.0
+148,9 AM to 6 PM,91-45 121st Street,engines,BK83,1.0
+149,9 AM to 6 PM,101-02 Jamaica Avenue,engines,QN53,1.0
+150,9 AM to 6 PM,440 West 38th Street,engines,BK60,1.0
+151,9 AM to 6 PM,720 Melrose Ave.,engines,BX34,1.0
+152,9 AM to 6 PM,1155 Washington Ave.,engines,BX39,1.0
+153,9 AM to 6 PM,415 West 125 Street,engines,BX63,1.0
+154,9 AM to 6 PM,6630 3rd Avenue,engines,SI35,1.0
+155,9 AM to 6 PM,227 Sixth Avenue,engines,SI07,3.0
+156,9 AM to 6 PM,256 Nelson Ave.,engines,SI07,2.0
+157,9 AM to 6 PM,885 Howard Ave.,engines,BK79,1.0
+158,9 AM to 6 PM,1352 Saint John's Place,engines,BK85,1.0
+159,9 AM to 6 PM,5105 Snyder Ave.,engines,BK76,1.0
+160,9 AM to 6 PM,1215 Intervale Ave.,engines,MN22,2.0
+161,9 AM to 6 PM,"42-06, 42-08 Astoria Blvd. South",engines,MN23,2.0
+162,9 AM to 6 PM,86-53 Grand Avenue,engines,MN23,1.0
+163,9 AM to 6 PM,111-36 Merrick Blvd.,engines,MN23,2.0
+164,9 AM to 6 PM,117-11 196th Street,engines,MN23,1.0
+165,9 AM to 6 PM,161 South 2nd Street,engines,MN01,1.0
+166,9 AM to 6 PM,159-06 Union Turnpike,engines,MN01,2.0
+167,9 AM to 6 PM,61-20 Utopia Parkway,engines,QN47,1.0
+168,9 AM to 6 PM,40-18 Union Street,engines,QN49,1.0
+169,9 AM to 6 PM,1518 Williamsbridge Road,engines,QN99,1.0
+170,9 AM to 6 PM,91-04 197th Street,engines,BX99,1.0
+171,9 AM to 6 PM,1189 Castleton Avenue,engines,BK45,1.0
+172,9 AM to 6 PM,1560 Drumgoole Road West,engines,BK93,1.0
+173,9 AM to 6 PM,75 Richardson Street,engines,BK73,1.0
+174,9 AM to 6 PM,74 Broad Street,engines,MN28,1.0
+175,9 AM to 6 PM,89-40 87th Street,engines,BK40,1.0
+176,9 AM to 6 PM,341 East 143 Street,engines,BK99,1.0
+177,9 AM to 6 PM,2282 Third Avenue,ladders,QN08,1.0
+178,9 AM to 6 PM,617 Central Ave.,ladders,QN08,1.0
+179,9 AM to 6 PM,29 Vermilyea Avenue,ladders,BX28,1.0
+180,9 AM to 6 PM,340 East 14 Street,ladders,QN55,1.0
+181,9 AM to 6 PM,500 West 113 Street,ladders,QN55,1.0
+182,9 AM to 6 PM,1454 Astor Ave.,ladders,QN55,1.0
+183,9 AM to 6 PM,2417 Webster Ave.,ladders,BX41,1.0
+184,9 AM to 6 PM,720 Melrose Ave.,ladders,BK68,1.0
+185,9 AM to 6 PM,254-20 Union Turnpike,ladders,QN38,1.0
+186,9 AM to 6 PM,64-04 Springfield Blvd.,ladders,QN52,1.0
+187,9 AM to 6 PM,305 Front Street,ladders,QN52,1.0
+188,9 AM to 6 PM,415 West 125 Street,ladders,BK44,1.0
+189,9 AM to 6 PM,1226 Seneca Ave.,ladders,BX98,1.0
+190,9 AM to 6 PM,14 N. Moore Street,ladders,QN07,1.0
+191,9 AM to 6 PM,2429 86th Street,ladders,BK41,1.0
+192,9 AM to 6 PM,1226 Seneca Ave.,ladders,QN33,1.0
+193,9 AM to 6 PM,48-06 Rockaway Beach Blvd,ladders,QN62,1.0
+194,9 AM to 6 PM,75 Canal Street,ladders,SI11,1.0
+195,9 AM to 6 PM,3929 East Tremont Ave.,ladders,QN15,1.0
+196,9 AM to 6 PM,436 39th St,ladders,QN15,1.0
+197,9 AM to 6 PM,440 West 38th Street,ladders,SI08,1.0
+198,9 AM to 6 PM,2924 Bruckner Blvd.,ladders,BX10,1.0
+199,9 AM to 6 PM,655 Prospect Ave.,ladders,BX33,1.0
+200,9 AM to 6 PM,150 West 19 Street,ladders,QN37,1.0
+201,9 AM to 6 PM,1836 Third Avenue,ladders,BK81,1.0
+202,9 AM to 6 PM,29 Vermilyea Avenue,ladders,QN35,1.0
+203,9 AM to 6 PM,3431 White Plains Road,ladders,SI37,1.0
+204,9 AM to 6 PM,41-20 Murray Street,ladders,QN23,1.0
+205,9 AM to 6 PM,788 Union Street,ladders,QN12,1.0
+206,9 AM to 6 PM,25 Rockaway Ave.,ladders,QN46,1.0
+207,9 AM to 6 PM,187 Union Ave.,ladders,QN50,1.0
+208,9 AM to 6 PM,2900 Snyder Ave.,ladders,BK91,1.0
+209,9 AM to 6 PM,491 Rogers Ave.,ladders,BK95,1.0
+210,9 AM to 6 PM,117-11 196th Street,ladders,QN66,1.0
+211,9 AM to 6 PM,1307 Prospect Ave.,ladders,QN41,1.0
+212,9 AM to 6 PM,1336 60th Street,ladders,BK09,1.0
+213,9 AM to 6 PM,885 Howard Ave.,ladders,BK63,1.0
+214,9 AM to 6 PM,256 Hylan Blvd.,ladders,SI14,1.0
+215,9 AM to 6 PM,2417 Webster Ave.,ladders,BX06,1.0
+216,9 AM to 6 PM,22-63 35th St.,ladders,BK26,1.0
+217,9 AM to 6 PM,2928 Briggs Ave.,ladders,BX22,1.0
+218,9 AM to 6 PM,2928 Briggs Ave.,ladders,BX29,1.0
+219,9 AM to 6 PM,2928 Briggs Ave.,ladders,BX30,1.0
+220,9 AM to 6 PM,755 East 233 Street,ladders,BK27,2.0
+221,9 AM to 6 PM,4550 Henry Hudson Parkway E.,ladders,BX05,1.0
+222,9 AM to 6 PM,64-04 Springfield Blvd.,ladders,QN51,1.0
+223,9 AM to 6 PM,494 Dean Street,ladders,QN28,1.0
+224,9 AM to 6 PM,44-01 244th Street,ladders,QN43,1.0
+225,9 AM to 6 PM,"16-15, 16-17, 16-19 Central Ave.",ladders,QN61,1.0
+226,9 AM to 6 PM,31 Richards Street,ladders,MN04,1.0
+227,9 AM to 6 PM,402 B. 169 Street,ladders,BK58,1.0
+228,9 AM to 6 PM,2510 Neptune Ave.,ladders,BK96,1.0
+229,9 AM to 6 PM,1851 E. 48 Street,ladders,BK96,1.0
+230,9 AM to 6 PM,10-40 47th Ave.,ladders,BK96,1.0
+231,9 AM to 6 PM,33-51 Greenpoint Avenue,ladders,BK90,1.0
+232,9 AM to 6 PM,145 West 100th St.,ladders,BK17,1.0
+233,9 AM to 6 PM,1592 Richmond Road,ladders,SI45,1.0
+234,9 AM to 6 PM,111 West 133 Street,ladders,MN34,1.0
+235,9 AM to 6 PM,234 East 29 Street,ladders,MN40,1.0
+236,9 AM to 6 PM,494 Dean Street,ladders,BK61,1.0
+237,9 AM to 6 PM,75 Richardson Street,ladders,BK69,1.0
+238,9 AM to 6 PM,9219 5th Ave.,ladders,BK31,1.0
+239,9 AM to 6 PM,33-51 Greenpoint Avenue,ladders,BX01,1.0
+240,9 AM to 6 PM,720 Melrose Ave.,ladders,BX40,1.0
+241,9 AM to 6 PM,489 Saint John's Place,ladders,BK43,1.0
+242,9 AM to 6 PM,256 Nelson Ave.,ladders,SI99,1.0
+243,9 AM to 6 PM,513 West 161 Street,ladders,MN11,1.0
+244,9 AM to 6 PM,207 West 77th Street,ladders,MN32,1.0
+245,9 AM to 6 PM,22-63 35th St.,ladders,QN71,1.0
+246,9 AM to 6 PM,423 Ralph Ave.,ladders,BK28,1.0
+247,9 AM to 6 PM,132 West 10 Street,ladders,BK29,1.0
+248,9 AM to 6 PM,143-15 Rockaway Blvd.,ladders,QN03,1.0
+249,9 AM to 6 PM,782 Eighth Avenue,ladders,SI24,1.0
+250,9 AM to 6 PM,1689 Story Ave.,ladders,BX52,1.0
+251,9 AM to 6 PM,187 Union Ave.,ladders,QN68,1.0
+252,9 AM to 6 PM,3025 Bailey Ave.,ladders,QN56,1.0
+253,9 AM to 6 PM,158-57 Cross Bay Blvd.,ladders,QN57,1.0
+254,9 AM to 6 PM,1815 Sterling Place,ladders,MN12,1.0
+255,9 AM to 6 PM,157 E 67th St,ladders,MN14,1.0
+256,9 AM to 6 PM,41-24 51st Street,ladders,QN70,1.0
+257,9 AM to 6 PM,7219 Amboy Road,ladders,QN72,1.0
+258,9 AM to 6 PM,124 Liberty Street,ladders,BX44,1.0
+259,9 AM to 6 PM,618 East 138 Street,ladders,BX17,1.0
+260,9 AM to 6 PM,782 Eighth Avenue,ladders,QN21,1.0
+261,9 AM to 6 PM,2175 Walton Ave.,ladders,BX14,1.0
+262,9 AM to 6 PM,392 Himrod Street,ladders,BK42,1.0
+263,9 AM to 6 PM,940 Dekalb Avenue,ladders,SI01,1.0
+264,9 AM to 6 PM,7219 Amboy Road,ladders,SI32,1.0
+265,9 AM to 6 PM,799 Lincoln Ave.,ladders,BK19,1.0
+266,9 AM to 6 PM,220 West 37 Street,ladders,BK23,1.0
+267,9 AM to 6 PM,3067 Richmond Road,ladders,SI25,1.0
+268,9 AM to 6 PM,3067 Richmond Road,ladders,SI54,1.0
+269,9 AM to 6 PM,43 Morgan Ave.,ladders,BK72,1.0
+270,9 AM to 6 PM,875 Jewett Avenue,ladders,SI05,1.0
+271,9 AM to 6 PM,1100 Rossville Ave,ladders,SI48,1.0
+272,9 AM to 6 PM,460 Cross Bronx Expressway,ladders,BX75,1.0
+273,9 AM to 6 PM,618 East 138 Street,ladders,BX08,1.0
+274,9 AM to 6 PM,242 East 111 Street,ladders,MN03,1.0
+275,9 AM to 6 PM,782 Eighth Avenue,ladders,MN99,1.0
+276,9 AM to 6 PM,40-18 214th Place,ladders,QN45,1.0
+277,9 AM to 6 PM,169 Schofield Street,ladders,QN06,1.0
+278,9 AM to 6 PM,92-20 Rockaway Beach Blvd.,ladders,BK37,1.0
+279,9 AM to 6 PM,256 Hylan Blvd.,ladders,QN34,1.0
+280,9 AM to 6 PM,64-04 Springfield Blvd.,ladders,QN42,1.0
+281,9 AM to 6 PM,26 Hooper Street,ladders,BX37,1.0
+282,9 AM to 6 PM,1843 White Plains Rd.,ladders,BX46,1.0
+283,9 AM to 6 PM,1843 White Plains Rd.,ladders,QN30,1.0
+284,9 AM to 6 PM,30-89 21st Street,ladders,QN31,1.0
+285,9 AM to 6 PM,169 Schofield Street,ladders,QN18,1.0
+286,9 AM to 6 PM,142 West 31 Street,ladders,QN29,1.0
+287,9 AM to 6 PM,701 Park Avenue,ladders,BK38,1.0
+288,9 AM to 6 PM,850 Bedford Ave.,ladders,BK35,1.0
+289,9 AM to 6 PM,26 Hooper Street,ladders,BK78,1.0
+290,9 AM to 6 PM,1850 Clove Road,ladders,BX27,1.0
+291,9 AM to 6 PM,157 E 67th St,ladders,BK83,1.0
+292,9 AM to 6 PM,1210 Cortelyou Road,ladders,BK60,1.0
+293,9 AM to 6 PM,2417 Webster Ave.,ladders,SI35,1.0
+294,9 AM to 6 PM,2282 Third Avenue,ladders,BK79,1.0
+295,9 AM to 6 PM,252 Lorraine St.,ladders,BK85,1.0
+296,9 AM to 6 PM,33-51 Greenpoint Avenue,ladders,BK76,1.0
+297,9 AM to 6 PM,274 Hicks Street,ladders,MN20,1.0
+298,9 AM to 6 PM,145-50 Springfield Blvd.,ladders,MN20,2.0
+299,9 AM to 6 PM,8653 18th Ave.,ladders,MN22,2.0
+300,9 AM to 6 PM,345 Annadale Road,ladders,MN22,1.0
+301,9 AM to 6 PM,1155 Washington Ave.,ladders,MN23,2.0
+302,9 AM to 6 PM,1901 Sedgwick Ave.,ladders,MN23,1.0
+303,9 AM to 6 PM,4550 Henry Hudson Parkway E.,ladders,MN01,1.0
+304,9 AM to 6 PM,460 Cross Bronx Expressway,ladders,MN35,1.0
+305,9 AM to 6 PM,142 West 31 Street,ladders,QN47,1.0
+306,9 AM to 6 PM,2732 E. 11th Street,ladders,QN49,1.0
+307,9 AM to 6 PM,3431 White Plains Road,ladders,QN99,1.0
+308,9 AM to 6 PM,2282 Third Avenue,ladders,BX13,1.0
+309,9 AM to 6 PM,392 Himrod Street,ladders,BX99,1.0
+310,9 AM to 6 PM,2732 E. 11th Street,ladders,BK45,1.0
+311,9 AM to 6 PM,165 Bradford st.,ladders,BK82,1.0
+312,9 AM to 6 PM,799 Lincoln Ave.,ladders,BK93,1.0
+313,9 AM to 6 PM,165 Bradford st.,ladders,BK73,1.0
+314,9 AM to 6 PM,755 East 233 Street,ladders,MN28,1.0
+315,9 AM to 6 PM,252 Lorraine St.,ladders,BK40,1.0
+316,6 PM until 9 AM,238 East 40 Street,engines,QN08,1.0
+317,6 PM until 9 AM,165 East 51 Street,engines,QN08,2.0
+318,6 PM until 9 AM,1781 Monroe Ave.,engines,QN08,1.0
+319,6 PM until 9 AM,4550 Henry Hudson Parkway E.,engines,BX28,1.0
+320,6 PM until 9 AM,248 West 143 Street,engines,QN55,1.0
+321,6 PM until 9 AM,169 Schofield Street,engines,QN55,2.0
+322,6 PM until 9 AM,14 Brighton Avenue,engines,QN55,2.0
+323,6 PM until 9 AM,1850 Clove Road,engines,QN55,2.0
+324,6 PM until 9 AM,885 Howard Ave.,engines,BK50,1.0
+325,6 PM until 9 AM,29 Vermilyea Avenue,engines,BX41,1.0
+326,6 PM until 9 AM,3025 Bailey Ave.,engines,QN26,2.0
+327,6 PM until 9 AM,2928 Briggs Ave.,engines,BK68,1.0
+328,6 PM until 9 AM,2510 Neptune Ave.,engines,QN38,2.0
+329,6 PM until 9 AM,91-04 197th Street,engines,QN38,1.0
+330,6 PM until 9 AM,97-28 43rd Avenue,engines,BK44,1.0
+331,6 PM until 9 AM,409 State Street,engines,QN01,1.0
+332,6 PM until 9 AM,618 East 138 Street,engines,BX98,1.0
+333,6 PM until 9 AM,117-11 196th Street,engines,QN07,1.0
+334,6 PM until 9 AM,12-49 149th Street,engines,QN48,1.0
+335,6 PM until 9 AM,10-40 47th Ave.,engines,BK77,1.0
+336,6 PM until 9 AM,415 West 125 Street,engines,BK41,1.0
+337,6 PM until 9 AM,206 Monroe Street,engines,BK75,1.0
+338,6 PM until 9 AM,44-01 244th Street,engines,QN44,1.0
+339,6 PM until 9 AM,242 East 111 Street,engines,MN06,1.0
+340,6 PM until 9 AM,495 Hancock Street,engines,QN62,1.0
+341,6 PM until 9 AM,61-20 Utopia Parkway,engines,QN62,1.0
+342,6 PM until 9 AM,100 Duane Street,engines,QN15,4.0
+343,6 PM until 9 AM,256 Hylan Blvd.,engines,SI08,1.0
+344,6 PM until 9 AM,3929 East Tremont Ave.,engines,BX10,1.0
+345,6 PM until 9 AM,618 East 138 Street,engines,BX33,1.0
+346,6 PM until 9 AM,25 Rockaway Ave.,engines,BK81,1.0
+347,6 PM until 9 AM,56-29 68th Street,engines,QN35,1.0
+348,6 PM until 9 AM,256 Hylan Blvd.,engines,SI37,1.0
+349,6 PM until 9 AM,27-12 Kearney Street,engines,QN23,1.0
+350,6 PM until 9 AM,86-53 Grand Avenue,engines,QN50,1.0
+351,6 PM until 9 AM,1851 E. 48 Street,engines,BK91,1.0
+352,6 PM until 9 AM,1210 Cortelyou Road,engines,BK95,1.0
+353,6 PM until 9 AM,142-04 Brookville Blvd.,engines,QN66,1.0
+354,6 PM until 9 AM,420A Weaver Ave,engines,QN41,1.0
+355,6 PM until 9 AM,49 Beekman Street,engines,BK09,1.0
+356,6 PM until 9 AM,1400 Richmond Avenue,engines,SI12,1.0
+357,6 PM until 9 AM,222 East 2 Street,engines,BX43,1.0
+358,6 PM until 9 AM,998 Liberty Ave.,engines,BX55,1.0
+359,6 PM until 9 AM,36-18 Francis Lewis Blvd.,engines,BK63,1.0
+360,6 PM until 9 AM,305 Front Street,engines,SI14,1.0
+361,6 PM until 9 AM,2417 Webster Ave.,engines,BX06,1.0
+362,6 PM until 9 AM,1850 Clove Road,engines,BK21,1.0
+363,6 PM until 9 AM,4550 Henry Hudson Parkway E.,engines,BX22,1.0
+364,6 PM until 9 AM,252 Lorraine St.,engines,BK34,1.0
+365,6 PM until 9 AM,36-18 Francis Lewis Blvd.,engines,BX31,1.0
+366,6 PM until 9 AM,108-01 Horace Harding Exp.,engines,QN17,1.0
+367,6 PM until 9 AM,799 Lincoln Ave.,engines,BX29,1.0
+368,6 PM until 9 AM,460 Cross Bronx Expressway,engines,BX30,1.0
+369,6 PM until 9 AM,2928 Briggs Ave.,engines,BX05,1.0
+370,6 PM until 9 AM,97-28 43rd Avenue,engines,QN22,1.0
+371,6 PM until 9 AM,41-20 Murray Street,engines,QN51,1.0
+372,6 PM until 9 AM,143-15 Rockaway Blvd.,engines,QN02,1.0
+373,6 PM until 9 AM,460 Cross Bronx Expressway,engines,BX35,1.0
+374,6 PM until 9 AM,64-18 Queens Blvd.,engines,QN28,1.0
+375,6 PM until 9 AM,41-24 51st Street,engines,QN63,1.0
+376,6 PM until 9 AM,92-20 Rockaway Beach Blvd.,engines,MN19,1.0
+377,6 PM until 9 AM,5113 4th Avenue,engines,QN43,1.0
+378,6 PM until 9 AM,2282 Third Avenue,engines,QN61,1.0
+379,6 PM until 9 AM,2282 Third Avenue,engines,MN04,1.0
+380,6 PM until 9 AM,222 East 2 Street,engines,MN50,1.0
+381,6 PM until 9 AM,160 Carlton Ave.,engines,BK58,1.0
+382,6 PM until 9 AM,30-89 21st Street,engines,BK96,1.0
+383,6 PM until 9 AM,1454 Astor Ave.,engines,BX59,1.0
+384,6 PM until 9 AM,1214 Castle Hill Ave.,engines,QN10,1.0
+385,6 PM until 9 AM,26 Hooper Street,engines,SI45,1.0
+386,6 PM until 9 AM,74 Broad Street,engines,SI36,1.0
+387,6 PM until 9 AM,207 West 77th Street,engines,MN36,1.0
+388,6 PM until 9 AM,21 Asch Loop,engines,MN34,1.0
+389,6 PM until 9 AM,3431 White Plains Road,engines,MN21,1.0
+390,6 PM until 9 AM,885 Howard Ave.,engines,MN31,1.0
+391,6 PM until 9 AM,207 West 77th Street,engines,MN40,1.0
+392,6 PM until 9 AM,256 Nelson Ave.,engines,MN33,1.0
+393,6 PM until 9 AM,274 Hicks Street,engines,BK33,1.0
+394,6 PM until 9 AM,701 Park Avenue,engines,BK33,1.0
+395,6 PM until 9 AM,132 West 10 Street,engines,BK61,1.0
+396,6 PM until 9 AM,220 West 37 Street,engines,BK61,1.0
+397,6 PM until 9 AM,14 East 18 Street,engines,BK61,1.0
+398,6 PM until 9 AM,453 E 176 Street,engines,BK61,1.0
+399,6 PM until 9 AM,423 Ralph Ave.,engines,BK61,1.0
+400,6 PM until 9 AM,9219 5th Ave.,engines,BK61,1.0
+401,6 PM until 9 AM,40-18 214th Place,engines,BK61,1.0
+402,6 PM until 9 AM,940 Dekalb Avenue,engines,BK69,1.0
+403,6 PM until 9 AM,43 Morgan Ave.,engines,BK69,1.0
+404,6 PM until 9 AM,617 Central Ave.,engines,BK69,1.0
+405,6 PM until 9 AM,40-18 Union Street,engines,QN25,1.0
+406,6 PM until 9 AM,500 West 113 Street,engines,BK30,1.0
+407,6 PM until 9 AM,1815 Sterling Place,engines,BK30,1.0
+408,6 PM until 9 AM,33 West 43 Street,engines,BK31,1.0
+409,6 PM until 9 AM,1336 60th Street,engines,BK31,1.0
+410,6 PM until 9 AM,1214 Castle Hill Ave.,engines,BX01,1.0
+411,6 PM until 9 AM,2417 Webster Ave.,engines,BX40,1.0
+412,6 PM until 9 AM,2924 Bruckner Blvd.,engines,BX09,1.0
+413,6 PM until 9 AM,119-11 14th Road,engines,BX49,1.0
+414,6 PM until 9 AM,48-06 Rockaway Beach Blvd,engines,BK43,2.0
+415,6 PM until 9 AM,150 West 19 Street,engines,SI99,1.0
+416,6 PM until 9 AM,117-11 196th Street,engines,MN09,1.0
+417,6 PM until 9 AM,341 East 143 Street,engines,MN11,1.0
+418,6 PM until 9 AM,145-50 Springfield Blvd.,engines,MN17,1.0
+419,6 PM until 9 AM,157 E 67th St,engines,MN32,1.0
+420,6 PM until 9 AM,"42-06, 42-08 Astoria Blvd. South",engines,QN71,1.0
+421,6 PM until 9 AM,101-02 Jamaica Avenue,engines,QN98,1.0
+422,6 PM until 9 AM,165 Bradford st.,engines,BK28,2.0
+423,6 PM until 9 AM,2429 86th Street,engines,BK28,1.0
+424,6 PM until 9 AM,530 11th Street,engines,BK29,1.0
+425,6 PM until 9 AM,119-11 14th Road,engines,QN03,1.0
+426,6 PM until 9 AM,145-50 Springfield Blvd.,engines,QN05,1.0
+427,6 PM until 9 AM,3067 Richmond Road,engines,SI24,1.0
+428,6 PM until 9 AM,3431 White Plains Road,engines,BX62,1.0
+429,6 PM until 9 AM,1843 White Plains Rd.,engines,BX52,1.0
+430,6 PM until 9 AM,37-20 29th Street,engines,BX52,1.0
+431,6 PM until 9 AM,530 11th Street,engines,QN68,1.0
+432,6 PM until 9 AM,107 Watkins Street,engines,QN56,1.0
+433,6 PM until 9 AM,489 Saint John's Place,engines,QN57,1.0
+434,6 PM until 9 AM,74 Broad Street,engines,MN14,1.0
+435,6 PM until 9 AM,41-24 51st Street,engines,QN70,1.0
+436,6 PM until 9 AM,11-15 37th Avenue,engines,QN72,1.0
+437,6 PM until 9 AM,1226 Seneca Ave.,engines,BX17,1.0
+438,6 PM until 9 AM,341 East 143 Street,engines,BX36,1.0
+439,6 PM until 9 AM,78-11 67th Road,engines,QN20,1.0
+440,6 PM until 9 AM,64-18 Queens Blvd.,engines,QN21,1.0
+441,6 PM until 9 AM,436 39th St,engines,BK42,1.0
+442,6 PM until 9 AM,"42-06, 42-08 Astoria Blvd. South",engines,QN27,1.0
+443,6 PM until 9 AM,1352 Saint John's Place,engines,SI01,1.0
+444,6 PM until 9 AM,7219 Amboy Road,engines,SI32,1.0
+445,6 PM until 9 AM,1573 Castleton Avenue,engines,BK19,1.0
+446,6 PM until 9 AM,392 Himrod Street,engines,BK23,1.0
+447,6 PM until 9 AM,256 Nelson Ave.,engines,SI25,1.0
+448,6 PM until 9 AM,3067 Richmond Road,engines,SI54,1.0
+449,6 PM until 9 AM,150 West 19 Street,engines,MN13,1.0
+450,6 PM until 9 AM,6630 3rd Avenue,engines,MN15,1.0
+451,6 PM until 9 AM,650 Hart Street,engines,BK72,1.0
+452,6 PM until 9 AM,1100 Rossville Ave,engines,SI05,1.0
+453,6 PM until 9 AM,788 Union Street,engines,SI48,1.0
+454,6 PM until 9 AM,2732 E. 11th Street,engines,BX75,1.0
+455,6 PM until 9 AM,66-44 Myrtle Avenue,engines,MN24,1.0
+456,6 PM until 9 AM,14 N. Moore Street,engines,MN25,1.0
+457,6 PM until 9 AM,2924 Bruckner Blvd.,engines,BX08,1.0
+458,6 PM until 9 AM,1367 Fifth Avenue,engines,MN03,1.0
+459,6 PM until 9 AM,66-44 Myrtle Avenue,engines,MN99,1.0
+460,6 PM until 9 AM,61-20 Utopia Parkway,engines,QN45,1.0
+461,6 PM until 9 AM,1843 White Plains Rd.,engines,QN06,1.0
+462,6 PM until 9 AM,2732 E. 11th Street,engines,BK32,1.0
+463,6 PM until 9 AM,5113 4th Avenue,engines,BK37,1.0
+464,6 PM until 9 AM,1259 Morris Ave.,engines,QN34,1.0
+465,6 PM until 9 AM,159-06 Union Turnpike,engines,QN42,1.0
+466,6 PM until 9 AM,2900 Snyder Ave.,engines,BX37,1.0
+467,6 PM until 9 AM,107 Watkins Street,engines,BX46,1.0
+468,6 PM until 9 AM,42 South Street,engines,QN18,1.0
+469,6 PM until 9 AM,252 Lorraine St.,engines,BK38,1.0
+470,6 PM until 9 AM,75 Richardson Street,engines,BK35,1.0
+471,6 PM until 9 AM,1201 Grand Street,engines,BK78,1.0
+472,6 PM until 9 AM,1259 Morris Ave.,engines,BX27,1.0
+473,6 PM until 9 AM,491 Rogers Ave.,engines,BK83,1.0
+474,6 PM until 9 AM,1352 Saint John's Place,engines,QN53,1.0
+475,6 PM until 9 AM,6630 3rd Avenue,engines,BK60,1.0
+476,6 PM until 9 AM,341 East 143 Street,engines,BX34,1.0
+477,6 PM until 9 AM,42 South Street,engines,BX39,1.0
+478,6 PM until 9 AM,1259 Morris Ave.,engines,BX63,1.0
+479,6 PM until 9 AM,1635 E. 14th Street,engines,SI35,1.0
+480,6 PM until 9 AM,495 Hancock Street,engines,BK79,1.0
+481,6 PM until 9 AM,1352 Saint John's Place,engines,BK85,1.0
+482,6 PM until 9 AM,850 Bedford Ave.,engines,BK76,1.0
+483,6 PM until 9 AM,345 Annadale Road,engines,MN23,2.0
+484,6 PM until 9 AM,2282 Third Avenue,engines,MN01,1.0
+485,6 PM until 9 AM,64-04 Springfield Blvd.,engines,MN01,1.0
+486,6 PM until 9 AM,1189 Castleton Avenue,engines,MN01,1.0
+487,6 PM until 9 AM,1635 E. 14th Street,engines,MN35,1.0
+488,6 PM until 9 AM,64-04 Springfield Blvd.,engines,QN47,1.0
+489,6 PM until 9 AM,12-49 149th Street,engines,QN49,1.0
+490,6 PM until 9 AM,1307 Prospect Ave.,engines,QN60,1.0
+491,6 PM until 9 AM,2929 W. 8th Street,engines,QN99,1.0
+492,6 PM until 9 AM,117-11 196th Street,engines,BX13,1.0
+493,6 PM until 9 AM,150 West 19 Street,engines,BX99,1.0
+494,6 PM until 9 AM,392 Himrod Street,engines,BK45,1.0
+495,6 PM until 9 AM,5105 Snyder Ave.,engines,BK82,1.0
+496,6 PM until 9 AM,799 Lincoln Ave.,engines,BK93,1.0
+497,6 PM until 9 AM,1573 Castleton Avenue,engines,BK73,1.0
+498,6 PM until 9 AM,1518 Williamsbridge Road,engines,MN28,1.0
+499,6 PM until 9 AM,494 Dean Street,engines,BK40,1.0
+500,6 PM until 9 AM,489 Saint John's Place,engines,BK99,1.0
+501,6 PM until 9 AM,530 West 43 Street,ladders,QN08,1.0
+502,6 PM until 9 AM,126 Foster Ave.,ladders,QN08,1.0
+503,6 PM until 9 AM,111-36 Merrick Blvd.,ladders,QN08,1.0
+504,6 PM until 9 AM,75 Canal Street,ladders,BX28,1.0
+505,6 PM until 9 AM,215 W 58th Street,ladders,QN55,1.0
+506,6 PM until 9 AM,145 West 100th St.,ladders,QN55,3.0
+507,6 PM until 9 AM,1655 Washington Ave,ladders,QN55,1.0
+508,6 PM until 9 AM,111 West 133 Street,ladders,BK50,1.0
+509,6 PM until 9 AM,1400 Richmond Avenue,ladders,BX41,1.0
+510,6 PM until 9 AM,25 Rockaway Ave.,ladders,QN26,1.0
+511,6 PM until 9 AM,1157 79th St.,ladders,QN26,2.0
+512,6 PM until 9 AM,81-17 Northern Blvd.,ladders,QN26,1.0
+513,6 PM until 9 AM,161 South 2nd Street,ladders,BK68,1.0
+514,6 PM until 9 AM,254-20 Union Turnpike,ladders,QN38,1.0
+515,6 PM until 9 AM,402 B. 169 Street,ladders,QN38,1.0
+516,6 PM until 9 AM,108 East 13 Street,ladders,QN52,1.0
+517,6 PM until 9 AM,40-18 Union Street,ladders,QN52,1.0
+518,6 PM until 9 AM,480 Sheffield Ave.,ladders,BK44,1.0
+519,6 PM until 9 AM,1215 Intervale Ave.,ladders,QN01,2.0
+520,6 PM until 9 AM,33-51 Greenpoint Avenue,ladders,BX98,1.0
+521,6 PM until 9 AM,26 Hooper Street,ladders,BK77,1.0
+522,6 PM until 9 AM,491 Rogers Ave.,ladders,BK75,1.0
+523,6 PM until 9 AM,91-04 197th Street,ladders,QN33,1.0
+524,6 PM until 9 AM,7219 Amboy Road,ladders,QN33,1.0
+525,6 PM until 9 AM,755 East 233 Street,ladders,MN06,1.0
+526,6 PM until 9 AM,518 West 170 Street,ladders,BX07,1.0
+527,6 PM until 9 AM,89-40 87th Street,ladders,SI11,1.0
+528,6 PM until 9 AM,111-02 Queens Blvd.,ladders,BX10,1.0
+529,6 PM until 9 AM,720 Melrose Ave.,ladders,QN37,1.0
+530,6 PM until 9 AM,124 Liberty Street,ladders,BK81,1.0
+531,6 PM until 9 AM,2165 Gerritsen Ave.,ladders,QN35,1.0
+532,6 PM until 9 AM,655 Prospect Ave.,ladders,SI37,1.0
+533,6 PM until 9 AM,720 Melrose Ave.,ladders,QN12,2.0
+534,6 PM until 9 AM,218-44 97th Avenue,ladders,QN46,1.0
+535,6 PM until 9 AM,104-12 Princeton Street,ladders,QN50,1.0
+536,6 PM until 9 AM,1155 Washington Ave.,ladders,BK91,1.0
+537,6 PM until 9 AM,655 Prospect Ave.,ladders,BK95,1.0
+538,6 PM until 9 AM,1361 Rockaway Parkway,ladders,QN66,1.0
+539,6 PM until 9 AM,1189 Castleton Avenue,ladders,QN41,1.0
+540,6 PM until 9 AM,1155 Washington Ave.,ladders,BK09,1.0
+541,6 PM until 9 AM,1361 Rockaway Parkway,ladders,QN54,1.0
+542,6 PM until 9 AM,2928 Briggs Ave.,ladders,SI28,1.0
+543,6 PM until 9 AM,395 4th Ave.,ladders,BX43,1.0
+544,6 PM until 9 AM,494 Dean Street,ladders,BK64,1.0
+545,6 PM until 9 AM,1155 Washington Ave.,ladders,BX55,1.0
+546,6 PM until 9 AM,5105 Snyder Ave.,ladders,BK63,1.0
+547,6 PM until 9 AM,108 East 13 Street,ladders,SI14,1.0
+548,6 PM until 9 AM,159-06 Union Turnpike,ladders,BX06,1.0
+549,6 PM until 9 AM,4210 12th Ave.,ladders,BK21,1.0
+550,6 PM until 9 AM,31 Richards Street,ladders,BK26,1.0
+551,6 PM until 9 AM,1361 Rockaway Parkway,ladders,QN19,1.0
+552,6 PM until 9 AM,2175 Walton Ave.,ladders,BX29,1.0
+553,6 PM until 9 AM,901 Avenue U,ladders,BX30,1.0
+554,6 PM until 9 AM,2929 W. 8th Street,ladders,BK27,2.0
+555,6 PM until 9 AM,480 Sheffield Ave.,ladders,QN76,1.0
+556,6 PM until 9 AM,2175 Walton Ave.,ladders,BX35,1.0
+557,6 PM until 9 AM,44-01 244th Street,ladders,QN43,1.0
+558,6 PM until 9 AM,4210 12th Ave.,ladders,QN61,1.0
+559,6 PM until 9 AM,187 Union Ave.,ladders,BK90,1.0
+560,6 PM until 9 AM,2175 Walton Ave.,ladders,BX26,1.0
+561,6 PM until 9 AM,1592 Richmond Road,ladders,SI45,1.0
+562,6 PM until 9 AM,278 McClean Avenue,ladders,SI36,1.0
+563,6 PM until 9 AM,1901 Sedgwick Ave.,ladders,MN36,1.0
+564,6 PM until 9 AM,415 West 125 Street,ladders,MN34,1.0
+565,6 PM until 9 AM,10-40 47th Ave.,ladders,MN31,1.0
+566,6 PM until 9 AM,1836 Third Avenue,ladders,MN33,1.0
+567,6 PM until 9 AM,256 Nelson Ave.,ladders,SI99,1.0
+568,6 PM until 9 AM,1367 Fifth Avenue,ladders,MN09,1.0
+569,6 PM until 9 AM,278 McClean Avenue,ladders,MN11,1.0
+570,6 PM until 9 AM,513 West 161 Street,ladders,QN71,1.0
+571,6 PM until 9 AM,104-12 Princeton Street,ladders,QN98,1.0
+572,6 PM until 9 AM,20 Rear Bloomfield Street,ladders,BK29,1.0
+573,6 PM until 9 AM,111-36 Merrick Blvd.,ladders,QN03,1.0
+574,6 PM until 9 AM,782 Eighth Avenue,ladders,QN05,1.0
+575,6 PM until 9 AM,33-51 Greenpoint Avenue,ladders,QN68,1.0
+576,6 PM until 9 AM,31 Richards Street,ladders,QN56,1.0
+577,6 PM until 9 AM,158-57 Cross Bay Blvd.,ladders,QN57,1.0
+578,6 PM until 9 AM,221 East 75 Street,ladders,MN12,1.0
+579,6 PM until 9 AM,782 Eighth Avenue,ladders,MN14,1.0
+580,6 PM until 9 AM,755 East 233 Street,ladders,QN20,1.0
+581,6 PM until 9 AM,101-02 Jamaica Avenue,ladders,QN21,1.0
+582,6 PM until 9 AM,1226 Seneca Ave.,ladders,BX14,1.0
+583,6 PM until 9 AM,1560 Drumgoole Road West,ladders,SI01,1.0
+584,6 PM until 9 AM,22-63 35th St.,ladders,BK19,1.0
+585,6 PM until 9 AM,187 Union Ave.,ladders,BK23,1.0
+586,6 PM until 9 AM,755 East 233 Street,ladders,SI54,1.0
+587,6 PM until 9 AM,22-63 35th St.,ladders,MN13,1.0
+588,6 PM until 9 AM,340 East 14 Street,ladders,MN15,1.0
+589,6 PM until 9 AM,1560 Drumgoole Road West,ladders,SI48,1.0
+590,6 PM until 9 AM,2417 Webster Ave.,ladders,BX75,1.0
+591,6 PM until 9 AM,120 West 83 Street,ladders,MN99,1.0
+592,6 PM until 9 AM,64-04 Springfield Blvd.,ladders,QN45,1.0
+593,6 PM until 9 AM,153-11 Hillside Avenue,ladders,QN06,1.0
+594,6 PM until 9 AM,1307 Prospect Ave.,ladders,BK32,1.0
+595,6 PM until 9 AM,153-11 Hillside Avenue,ladders,QN34,1.0
+596,6 PM until 9 AM,1226 Seneca Ave.,ladders,BX46,1.0
+597,6 PM until 9 AM,75 Richardson Street,ladders,QN30,1.0
+598,6 PM until 9 AM,157 E 67th St,ladders,QN31,1.0
+599,6 PM until 9 AM,108-01 Horace Harding Exp.,ladders,QN18,1.0
+600,6 PM until 9 AM,56-07 Metropolitan Avenue,ladders,QN29,1.0
+601,6 PM until 9 AM,206 Monroe Street,ladders,BK35,1.0
+602,6 PM until 9 AM,143-15 Rockaway Blvd.,ladders,BX27,1.0
+603,6 PM until 9 AM,782 Eighth Avenue,ladders,QN53,1.0
+604,6 PM until 9 AM,2900 Snyder Ave.,ladders,BK60,1.0
+605,6 PM until 9 AM,1689 Story Ave.,ladders,BX39,1.0
+606,6 PM until 9 AM,111-02 Queens Blvd.,ladders,BX63,1.0
+607,6 PM until 9 AM,440 West 38th Street,ladders,SI35,1.0
+608,6 PM until 9 AM,227 Sixth Avenue,ladders,SI22,3.0
+609,6 PM until 9 AM,925 East Tremont Ave.,ladders,SI22,3.0
+610,6 PM until 9 AM,172 Tillary Street,ladders,BK79,1.0
+611,6 PM until 9 AM,440 West 38th Street,ladders,BK85,1.0
+612,6 PM until 9 AM,248 West 143 Street,ladders,BK76,1.0
+613,6 PM until 9 AM,153-11 Hillside Avenue,ladders,MN22,1.0
+614,6 PM until 9 AM,875 Jewett Avenue,ladders,MN22,2.0
+615,6 PM until 9 AM,142 West 31 Street,ladders,MN23,2.0
+616,6 PM until 9 AM,111 West 133 Street,ladders,MN23,1.0
+617,6 PM until 9 AM,8653 18th Ave.,ladders,MN23,3.0
+618,6 PM until 9 AM,29 Vermilyea Avenue,ladders,MN01,1.0
+619,6 PM until 9 AM,33-51 Greenpoint Avenue,ladders,MN01,1.0
+620,6 PM until 9 AM,257 Beach 116th Street,ladders,MN01,1.0
+621,6 PM until 9 AM,248 West 143 Street,ladders,MN35,1.0
+622,6 PM until 9 AM,172 Tillary Street,ladders,QN47,1.0
+623,6 PM until 9 AM,172 Tillary Street,ladders,QN49,1.0
+624,6 PM until 9 AM,234 East 29 Street,ladders,QN99,1.0
+625,6 PM until 9 AM,172 Tillary Street,ladders,BX13,1.0
+626,6 PM until 9 AM,234 East 29 Street,ladders,BK82,1.0
+627,6 PM until 9 AM,75 Canal Street,ladders,BK73,1.0
+628,6 PM until 9 AM,187 Union Ave.,ladders,BK40,1.0
+629,6 PM until 9 AM,172 Tillary Street,ladders,BK99,1.0

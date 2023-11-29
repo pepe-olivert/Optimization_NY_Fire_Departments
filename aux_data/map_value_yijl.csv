@@ -1,29 +1,29 @@
 ,shift,station,vehicle,value
 0,9 AM to 6 PM,108 East 13 Street,squads,1.0
-1,9 AM to 6 PM,14 East 18 Street,squads,1.0
-2,9 AM to 6 PM,782 Eighth Avenue,squads,1.0
-3,9 AM to 6 PM,159-06 Union Turnpike,squads,1.0
-4,9 AM to 6 PM,91-04 197th Street,squads,1.0
-5,9 AM to 6 PM,142-04 Brookville Blvd.,squads,1.0
+1,9 AM to 6 PM,20 Rear Bloomfield Street,squads,1.0
+2,9 AM to 6 PM,3446 Eastchester Road,squads,1.0
+3,9 AM to 6 PM,901 Avenue U,squads,1.0
+4,9 AM to 6 PM,153-11 Hillside Avenue,squads,1.0
+5,9 AM to 6 PM,91-04 197th Street,squads,1.0
 6,9 AM to 6 PM,48-06 Rockaway Beach Blvd,squads,1.0
 7,9 AM to 6 PM,65 Harbor Road,squads,1.0
 8,9 AM to 6 PM,48-06 Rockaway Beach Blvd,ha,1.0
-9,9 AM to 6 PM,782 Eighth Avenue,rescue,1.0
-10,9 AM to 6 PM,20 Rear Bloomfield Street,rescue,1.0
-11,9 AM to 6 PM,91-04 197th Street,rescue,1.0
-12,9 AM to 6 PM,48-06 Rockaway Beach Blvd,rescue,1.0
+9,9 AM to 6 PM,108 East 13 Street,rescue,1.0
+10,9 AM to 6 PM,3446 Eastchester Road,rescue,1.0
+11,9 AM to 6 PM,901 Avenue U,rescue,1.0
+12,9 AM to 6 PM,153-11 Hillside Avenue,rescue,1.0
 13,9 AM to 6 PM,412 Broadway,rescue,1.0
-14,6 PM until 9 AM,1157 79th St.,squads,1.0
-15,6 PM until 9 AM,6405 Avenue N,squads,1.0
-16,6 PM until 9 AM,5113 4th Avenue,squads,1.0
-17,6 PM until 9 AM,91-04 197th Street,squads,1.0
+14,6 PM until 9 AM,42 Great Jones Street,squads,1.0
+15,6 PM until 9 AM,3446 Eastchester Road,squads,1.0
+16,6 PM until 9 AM,901 Avenue U,squads,1.0
+17,6 PM until 9 AM,91-45 121st Street,squads,1.0
 18,6 PM until 9 AM,257 Beach 116th Street,squads,1.0
 19,6 PM until 9 AM,"16-15, 16-17, 16-19 Central Ave.",squads,1.0
 20,6 PM until 9 AM,48-06 Rockaway Beach Blvd,squads,1.0
-21,6 PM until 9 AM,412 Broadway,squads,1.0
+21,6 PM until 9 AM,65 Harbor Road,squads,1.0
 22,6 PM until 9 AM,"16-15, 16-17, 16-19 Central Ave.",ha,1.0
-23,6 PM until 9 AM,5113 4th Avenue,rescue,1.0
-24,6 PM until 9 AM,91-04 197th Street,rescue,1.0
-25,6 PM until 9 AM,257 Beach 116th Street,rescue,1.0
-26,6 PM until 9 AM,"16-15, 16-17, 16-19 Central Ave.",rescue,1.0
-27,6 PM until 9 AM,48-06 Rockaway Beach Blvd,rescue,1.0
+23,6 PM until 9 AM,42 Great Jones Street,rescue,1.0
+24,6 PM until 9 AM,3446 Eastchester Road,rescue,1.0
+25,6 PM until 9 AM,6405 Avenue N,rescue,1.0
+26,6 PM until 9 AM,91-45 121st Street,rescue,1.0
+27,6 PM until 9 AM,412 Broadway,rescue,1.0
